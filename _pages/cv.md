@@ -9,6 +9,7 @@ redirect_from:
 
 {% include base_path %}
 
+
 Education
 ======
 * Ph.D in Statistics (summa cum laude), Bielefeld University, October 2020 - June 2024
