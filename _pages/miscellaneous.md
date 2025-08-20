@@ -19,12 +19,7 @@ author_profile: true
 **Scientific Activities:**  
 - Associate Editor of the *Journal of Sports Analytics*  
 - Member of the Sports – Training and Research in Data Science Methods for Analytics and Injury Prevention Group (S-TRAINING)  
-- Reviewer for:
-  - Journal of the Royal Statistical Society Series C
-  - Computational Statistics
-  - Journal of Big Data
-  - Journal of Sports Economics
-  - International Journal of Sports Science & Coaching
+- Reviewer for several journals (e.g., Journal of the Royal Statistical Society Series C, Computational Statistics, International Journal of Sports Science & Coaching)
 
 **Software Skills:**  
 - R (excellent)  
