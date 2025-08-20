@@ -17,8 +17,8 @@ author_profile: true
 *Journal of Quantitative Analysis in Sports*.
 
 - Michels, R., & Langrock, R. (2025)<br>
-Nonparametric estimation of bivariate hidden Markov models using tensor-product B-splines<br>
-*Statistical Modelling* (in press).
+["Nonparametric estimation of bivariate hidden Markov models using tensor-product B-splines"](https://doi.org/10.1177/1471082X251335431)<br>
+*Statistical Modelling*.
 
 - Michels, R., Ötting, M., & Karlis, D. (2025)<br>
 ["Extending the Dixon and Coles model: an application to women’s football data"](https://doi.org/10.1093/jrsssc/qlae050)<br>
@@ -45,13 +45,12 @@ Nonparametric estimation of bivariate hidden Markov models using tensor-product 
 *European Journal of Operational Research*, 310(3), 1118–1127.
 
 - Michels, R., Adam, T., & Ötting, M. (2023)<br>
-Tree-based Regression within a hidden Markov model framework<br>
+["Tree-based Regression within a hidden Markov model framework"](https://it.pearson.com/content/dam/region-core/italy/pearson-italy/pdf/Docenti/Universit%C3%A0/CLADAG-2023.pdf)<br>
 *Book of Short Papers of the 14th Scientific Meeting on Classification and Data Analysis*.
 
 ## Preprints
 - Karlis, D., Michels, R., & Ötting, M. (2024)<br>
 ["Modelling handball outcomes using univariate and bivariate approaches"](https://arxiv.org/abs/2404.04213)<br>
-*arXiv preprint*, arXiv:2404.04213.
 
 - Koslik, J.-O., Feldmann, C. C. C., Mews, S., Michels, R., & Langrock, R. (2023)<br>
 ["Inference on the state process of periodically inhomogeneous hidden Markov models for animal behavior"](https://arxiv.org/abs/2312.14583)<br>
