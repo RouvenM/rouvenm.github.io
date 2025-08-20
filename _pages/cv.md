@@ -11,7 +11,7 @@ redirect_from:
 
 Education
 ======
-* Ph.D in Statistics, Bielefeld University, October 2020 - June 2024, summa cum laude
+* Ph.D in Statistics (summa cum laude), Bielefeld University, October 2020 - June 2024
 * MSc in Business Mathematics, Bielefeld University, October 2016 - March 2019
 * BSc in Business Mathematics, Bielefeld University, October 2013 - September 2016
 
