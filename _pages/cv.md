@@ -11,26 +11,30 @@ redirect_from:
 
 Education
 ======
-* Ph.D in Version Control Theory, GitHub University, 2018 (expected)
-* M.S. in Jekyll, GitHub University, 2014
-* B.S. in GitHub, GitHub University, 2012
+* Ph.D in Statistics, Bielefeld University, October 2020 - June 2024, summa cum laude
+* MSc in Business Mathematics, Bielefeld University, October 2016 - March 2019
+* BSc in Business Mathematics, Bielefeld University, October 2013 - September 2016
 
 Work experience
 ======
-* Spring 2024: Academic Pages Collaborator
-  * GitHub University
-  * Duties includes: Updates and improvements to template
-  * Supervisor: The Users
+* Since October 2024: Research Associate in the Statistical Methods for Big Data group
+  * Technical University of Dortmund, Dortmund
 
-* Fall 2015: Research Assistant
-  * GitHub University
-  * Duties included: Merging pull requests
-  * Supervisor: Professor Hub
+* October 2020 – present: Research Associate in the Statistics and Data Analysis group
+* October 2020 – September 2024: Research Associate in the Sports Science AB V group
+  * Bielefeld University, Bielefeld
 
-* Summer 2015: Research Assistant
-  * GitHub University
-  * Duties included: Tagging issues
-  * Supervisor: Professor Git
+* May 2019 – September 2020: Associate in (Quantitative) Risk Management
+  * KPMG AG, Bielefeld
+
+* February 2018 – December 2018: Working Student and Intern in Credit Risk
+  * KPMG AG, Frankfurt am Main
+
+* October 2015 – March 2019: Student/Research Assistant and Academic Advisor
+  * Bielefeld University, Bielefeld
+
+* August 2015 – September 2015: Intern in Actuarial Department
+  * Zurich AG, Bonn
   
 Skills
 ======
