@@ -6,7 +6,7 @@ author_profile: true
 ---
 
 {% if site.author.googlescholar %}
-  <div class="wordwrap">You can also find my articles on <a href="https://scholar.google.de/citations?user=G3JmOXUAAAAJ&hl=de&oi=ao">my Google Scholar profile</a>.</div>
+  <div class="wordwrap">Please also visit <a href="https://scholar.google.de/citations?user=G3JmOXUAAAAJ&hl=de&oi=ao">my Google Scholar profile</a> for a full list of publications, pre-prints and conference proceedings.</div>
 {% endif %}
 
 {% include base_path %}
