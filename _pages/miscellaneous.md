@@ -15,8 +15,8 @@ author_profile: true
 - Publication Award for Junior Scientist, Faculty of Business Administration and Economics, Bielefeld University
 
 **Scientific Activities:**  
-- Associate Editor of the *Journal of Sports Analytics*  
-- Member of the Sports – Training and Research in Data Science Methods for Analytics and Injury Prevention Group (S-TRAINING)  
+- Associate Editor of the [Journal of Sports Analytics](https://journals.sagepub.com/editorial-board/san)
+- Member of the Sports – Training and Research in Data Science Methods for Analytics and Injury Prevention Group [(S-TRAINING)](https://s-training.eu/Rouven%20Michels.html)  
 - Reviewer for several journals (e.g., Journal of the Royal Statistical Society Series C, Computational Statistics, International Journal of Sports Science & Coaching)
 
 **Software Skills:**  
