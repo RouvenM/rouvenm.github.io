@@ -5,8 +5,6 @@ permalink: /miscellaneous/
 author_profile: true
 ---
 
-## Miscellaneous
-
 **Awards:**  
 - Student Prize Winner of the RSS Women's World Cup 2023 Prediction Competition  
 - Best Student Presentation Award at IWSM 2024, Durham, UK  
