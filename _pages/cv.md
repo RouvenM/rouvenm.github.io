@@ -29,34 +29,32 @@ Work experience
 * October 2015 – March 2019: Student/Research Assistant and Academic Advisor at Bielefeld University, Bielefeld
 
 * August 2015 – September 2015: Intern in Actuarial Department at Zurich AG, Bonn
-  
-Skills
-======
-* Skill 1
-* Skill 2
-  * Sub-skill 2.1
-  * Sub-skill 2.2
-  * Sub-skill 2.3
-* Skill 3
 
 Publications
 ======
-  <ul>{% for post in site.publications reversed %}
-    {% include archive-single-cv.html %}
-  {% endfor %}</ul>
+{% capture publications_content %}
+  {% include_relative publications.md %}
+{% endcapture %}
+
+{% assign content_array = publications_content | split: "---" %}
+{% assign content_without_frontmatter = content_array[2] %}
+
+{{ content_without_frontmatter | markdownify }}
   
 Talks
 ======
-  <ul>{% for post in site.talks reversed %}
-    {% include archive-single-talk-cv.html  %}
-  {% endfor %}</ul>
+{% capture talks_content %}
+  {% include_relative talks.md %}
+{% endcapture %}
   
 Teaching
 ======
-  <ul>{% for post in site.teaching reversed %}
-    {% include archive-single-cv.html %}
-  {% endfor %}</ul>
+{% capture teaching_content %}
+  {% include_relative teaching.md %}
+{% endcapture %}
+
+{% assign content_array = teaching_content | split: "---" %}
+{% assign content_without_frontmatter = content_array[2] %}
+
+{{ content_without_frontmatter | markdownify }}
   
-Service and leadership
-======
-* Currently signed in to 43 different slack teams
