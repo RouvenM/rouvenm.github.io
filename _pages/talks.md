@@ -4,6 +4,11 @@ title: "Talks and presentations"
 permalink: /talks/
 author_profile: true
 ---
+
+## Talks for the public
+
+* July 2025: Fußball-EM: Statistisch haben Spanierinnen die größte Chance auf den Sieg
+  * [Podcast](https://www.ardaudiothek.de/episode/urn:ard:episode:e00f5a9a4137f3e9/)
 ## Talks and Posters
 
 * June 2025: Forecasting In-Game Win Probabilities in Handball: Evaluating the Impact of Goalkeeper Substitution  
