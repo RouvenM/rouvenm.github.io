@@ -19,6 +19,9 @@ author_profile: true
 - Member of the Sports – Training and Research in Data Science Methods for Analytics and Injury Prevention Group [(S-TRAINING)](https://s-training.eu/Rouven%20Michels.html)  
 - Reviewer for several journals (e.g., Journal of the Royal Statistical Society Series C, Computational Statistics, International Journal of Sports Science & Coaching)
 
+**Non-Scientific Activities:**  
+- Cooperation partner of the [Gambling Addiction NRW](https://gluecksspielsucht-nrw.de/ueber-uns/kooperationen/universitat-bielefeld/) 
+
 **Software Skills:**  
 - R (excellent)  
 - Python (basic)  
