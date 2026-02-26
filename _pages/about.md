@@ -11,8 +11,7 @@ I am a postdoctoral researcher in the [Faculty of Statistics](https://bd.statist
 
 My research lies at the intersection of statistical modelling and machine learning, specifically hidden Markov models (HMMs) and tree-based methods.
 
-Working with data from various sports (such as soccer, American football, and handball), my goal is to develop models that help evaluate players and teams and support strategic decision-making.
-
+Working with data from various sports (e.g., soccer, American football, and handball), my goal is to develop models that help evaluate players and teams and support strategic decision-making.
 Beyond sports analytics, I am also interested in applications of HMMs to finance or energy data.
 
 ---
