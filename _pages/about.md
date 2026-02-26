@@ -14,8 +14,6 @@ My research lies at the intersection of statistical modelling and machine learni
 Working with data from various sports (e.g., soccer, American football, and handball), my goal is to develop models that help evaluate players and teams and support strategic decision-making.
 Beyond sports analytics, I am also interested in applications of HMMs to finance or energy data.
 
----
-
 ## News
 
 Together with my co-authors [Robert](https://rbstats.netlify.app/) and [Ole](https://janolefi.github.io/), we have published our pre-print 
@@ -23,8 +21,6 @@ Together with my co-authors [Robert](https://rbstats.netlify.app/) and [Ole](htt
 Feel free to reach out in case of questions or comments!
 
 Furthermore, I will present this work at the [16th Workshop on Stochastic Models, Statistics and Their Applications (SMSA)](https://www.smsa2026.de/), taking place in Würzburg in this March.
-
----
 
 ## Teaching
 
