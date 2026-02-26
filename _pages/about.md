@@ -20,7 +20,7 @@ Together with my co-authors [Robert](https://rbstats.netlify.app/) and [Ole](htt
 *Integrating Unsupervised and Supervised Learning for the Prediction of Defensive Schemes in American Football* on [arXiv](https://arxiv.org/abs/2602.10784). 
 Feel free to reach out in case of questions or comments!
 
-Furthermore, I will present this work at the [16th Workshop on Stochastic Models, Statistics and Their Applications (SMSA)](https://www.smsa2026.de/), taking place in Würzburg in this March.
+Furthermore, I will present this work at the [16th Workshop on Stochastic Models, Statistics and Their Applications (SMSA)](https://www.smsa2026.de/), taking place in Würzburg this March.
 
 ## Teaching
 
