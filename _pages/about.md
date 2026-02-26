@@ -7,15 +7,13 @@ redirect_from:
   - /about.html
 ---
 
-Welcome to my personal website!
-
 I am a statistician and postdoctoral researcher in the [Statistical Methods for Big Data group](https://bd.statistik.tu-dortmund.de/) at TU Dortmund University.
 
-My research lies at the intersection of statistical modelling and machine learning, with a particular focus on hidden Markov models and tree-based methods.
+My research lies at the intersection of statistical modelling and machine learning, specifically hidden Markov models (HMMs) and tree-based methods.
 
-I work primarily with event and tracking data from sports such as soccer, American football, and handball. My goal is to develop models that help evaluate players and teams, support strategic decision-making, and deepen our understanding of the dynamics of sports competitions.
+I work with data from various sports such as soccer, American football, and handball. My goal is to develop models that help evaluate players and teams and support strategic decision-making.
 
-Beyond sports analytics, I am also interested in applications in areas such as finance and energy markets.
+Beyond sports analytics, I am also interested in applications of HMMs to finance or energy data.
 
 ---
 
