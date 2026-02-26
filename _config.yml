@@ -22,7 +22,7 @@ repository               : "rouvenm/rouvenm.github.io"
 #               Additional customization can be done by editing /_includes/author-profile.html
 author:
   # Biographic information
-  avatar           : "IMG_8696.JPEG"
+  avatar           : "profile.png"
   name             : "Rouven Michels"
   pronouns         : # example: "she/her"  
   bio              : "PostDoc in Statistics at TU Dortmund"
