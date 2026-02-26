@@ -5,13 +5,28 @@ permalink: /publications/
 author_profile: true
 ---
 
-{% if site.author.googlescholar %}
-  <div class="wordwrap">Please also visit <a href="https://scholar.google.de/citations?user=G3JmOXUAAAAJ&hl=de&oi=ao">my Google Scholar profile</a> for a full list of publications, pre-prints and conference proceedings.</div>
-{% endif %}
+For a full list of publications, please visit my [Google Scholar profile](https://scholar.google.de/citations?user=G3JmOXUAAAAJ&hl=de&oi=ao).
 
-{% include base_path %}
+## Preprints
+- _Michels, R._, Bajons, R., & Fischer, J.-O. (2026)<br>
+["Integrating Unsupervised and Supervised Learning for the Prediction of Defensive Schemes in American Football"](https://arxiv.org/abs/2602.10784)
+<br>
+
 
 ## Peer-reviewed papers
+- Winkelmann, D., _Michels, R._ (2025)<br>["Momentum effects in team sports: analyzing the interplay between offense and defense in the NBA"](https://www.tandfonline.com/doi/full/10.1080/00031305.2025.2595980)
+<br> The American Statistician, in press.
+
+- Koslik, J.-O., Feldmann, C. C., Mews, S., _Michels, R._, & Langrock, R. (2025)<br>
+["Inference on the state process of periodically inhomogeneous hidden Markov models for animal behavior"](https://projecteuclid.org/journals/annals-of-applied-statistics/volume-19/issue-4/Inference-on-the-state-process-of-periodically-inhomogeneous-hidden-Markov/10.1214/25-AOAS2107.short)
+<br>
+The Annals of Applied Statistics, 19(4), 2724–2737.
+
+- Karlis, D., _Michels, R._, & Ötting, M. (2025)<br>
+["Modelling handball outcomes using univariate and bivariate approaches"](https://link.springer.com/article/10.1007/s10260-025-00825-w)
+<br>
+Statistical Methods & Applications, in press.
+
 - Bajons, R., Koslik, J.-O., _Michels, R._, & Ötting, M. (2025)<br>
 ["PEP: a tackle value measuring the prevention of expected points"](https://doi.org/10.1515/jqas-2024-0099)<br>
 *Journal of Quantitative Analysis in Sports*.
@@ -47,11 +62,3 @@ author_profile: true
 - _Michels, R._, Adam, T., & Ötting, M. (2023)<br>
 ["Tree-based Regression within a hidden Markov model framework"](https://it.pearson.com/content/dam/region-core/italy/pearson-italy/pdf/Docenti/Universit%C3%A0/CLADAG-2023.pdf)<br>
 *Book of Short Papers of the 14th Scientific Meeting on Classification and Data Analysis*.
-
-## Preprints
-- Karlis, D., _Michels, R._, & Ötting, M. (2024)<br>
-["Modelling handball outcomes using univariate and bivariate approaches"](https://arxiv.org/abs/2404.04213)<br>
-
-- Koslik, J.-O., Feldmann, C. C. C., Mews, S., _Michels, R._, & Langrock, R. (2023)<br>
-["Inference on the state process of periodically inhomogeneous hidden Markov models for animal behavior"](https://arxiv.org/abs/2312.14583)<br>
-*arXiv preprint*, arXiv:2312.14583.
