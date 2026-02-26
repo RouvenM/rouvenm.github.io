@@ -34,5 +34,6 @@ author_profile: true
 
 **Hobbies:**  
 - Football  
-- Road cycling  
-- Groundhopping  
+- [Road cycling](./images/cycling.JPEG)
+- [Groundhopping](./images/hobbies/groundhopping.JPEG)
+- [Hiking](./images/hobbies/hiking.JPEG)

@@ -5,8 +5,6 @@ permalink: /teaching/
 author_profile: true
 ---
 
-## Selected Teaching Courses
-
 ### Lectures
 - Hidden Markov and State Space Models, Summer Term 2025
 
