@@ -12,7 +12,7 @@ author_profile: true
 
 ### Seminars
 - Visualisation of Sports Data, Summer Term 2025
-- Soccer Analytics, Winter Term 2024/25
+- Soccer Analytics, Winter Term 2024/25, 2025/26
 - Introductory Case Studies, Winter Term 2024/25
 - Research Methods in Sports Economics, Summer Terms 2021, 2022, 2023, 2024
 - Reading Course, Introduction to NFL Analytics with R, Winter Term 2023/24

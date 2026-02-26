@@ -10,7 +10,7 @@ For a full list of publications, please visit my [Google Scholar profile](https:
 ## Preprints
 - _Michels, R._, Bajons, R., & Fischer, J.-O. (2026)<br>
 ["Integrating Unsupervised and Supervised Learning for the Prediction of Defensive Schemes in American Football"](https://arxiv.org/abs/2602.10784)
-<br>
+<br> arXiv preprint arXiv:2602.10784
 
 
 ## Peer-reviewed papers
