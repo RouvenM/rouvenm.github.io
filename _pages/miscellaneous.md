@@ -6,8 +6,8 @@ author_profile: true
 ---
 
 **Awards:**  
-- Student Prize Winner of the RSS Women's World Cup 2023 Prediction Competition  
-- Best Student Presentation Award at IWSM 2024, Durham, UK  
+- Student Prize Winner of the RSS Women's World Cup 2023 [Prediction Competition](https://github.com/mberk/rss-wwc-2023-prediction-competition?tab=readme-ov-file)  
+- [Best Student Presentation Award at IWSM 2024, Durham, UK](https://www.statmod.org/workshop_prizes.htm)  
 - Honorable Mention: [NFL Big Data Bowl 2024](https://www.kaggle.com/code/robbwu/pep-a-metric-for-evaluating-tackles/report)
 
 **Grants:**
