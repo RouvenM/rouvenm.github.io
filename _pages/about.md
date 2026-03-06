@@ -25,5 +25,5 @@ Furthermore, I will present this work at the [16th Workshop on Stochastic Models
 ## Teaching
 
 In the summer term 2026, I will give a lecture on *Hidden Markov and State Space Models*. 
-If you are a Master’s student enrolled in Statistics, Data Science, or Econometrics at TU Dortmund University, you can join the course as an elective module. I look forward to welcoming you!
+If you are a Master’s student enrolled in Statistics, Data Science, or Econometrics at TU Dortmund University, you can [join the course](https://moodle.tu-dortmund.de/course/view.php?id=56408) as an elective module. I look forward to welcoming you!
 
