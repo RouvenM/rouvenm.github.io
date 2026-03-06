@@ -11,6 +11,9 @@ author_profile: true
   
 ## Talks and Posters
 
+* March 2026: Using Hidden Markov Models for Decision-Making under Uncertainty in Sports Analytics (invited talk)
+  * Quantifying and Managing Uncertainty Focus Group at Bielefeld University, Germany
+
 * November 2025: Applying extensions of the Dixon and Coles model to women's soccer and the new Champions League format
   * 2nd Workshop on Sports Analytics in Soccer at TU Dortmund University, Germany
 
