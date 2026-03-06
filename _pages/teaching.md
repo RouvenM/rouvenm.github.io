@@ -6,7 +6,7 @@ author_profile: true
 ---
 
 ### Lectures
-- Hidden Markov and State Space Models, Summer Term 2025
+- Hidden Markov and State Space Models, Summer Term 2025, (2026)[https://moodle.tu-dortmund.de/course/view.php?id=56408]
 
 ### Seminars
 - Visualisation of Sports Data, Summer Term 2025
