@@ -17,7 +17,7 @@ author_profile: true
 * November 2025: Applying extensions of the Dixon and Coles model to women's soccer and the new Champions League format
   * 2nd Workshop on Sports Analytics in Soccer at TU Dortmund University, Germany
 
-* September 2025: The Best of Both Worlds: Predicting Football Coverages with Supervised and Unsupervised Learning
+* September 2025: [The Best of Both Worlds: Predicting Football Coverages with Supervised and Unsupervised Learning](https://www.youtube.com/watch?v=DzRtGdh5fXM&t=4s)
   * 2025 New England Symposium on Statistics in Sports, Boston, USA
 
 * June 2025: Forecasting In-Game Win Probabilities in Handball: Evaluating the Impact of Goalkeeper Substitution  
