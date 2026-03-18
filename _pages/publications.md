@@ -12,6 +12,8 @@ For a full list of publications, please visit my [Google Scholar profile](https:
 ["Integrating Unsupervised and Supervised Learning for the Prediction of Defensive Schemes in American Football"](https://arxiv.org/abs/2602.10784)
 <br> arXiv preprint arXiv:2602.10784
 
+- Winkelmann, D., _Michels, R._ & Deutscher C. (2025)<br>
+["Predicting Qualification Thresholds in UEFA's incomplete round-robin tournaments"](https://arxiv.org/pdf/2508.20075)
 
 ## Peer-reviewed papers
 - Winkelmann, D., _Michels, R._ (2025)<br>["Momentum effects in team sports: analyzing the interplay between offense and defense in the NBA"](https://www.tandfonline.com/doi/full/10.1080/00031305.2025.2595980)
