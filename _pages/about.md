@@ -20,7 +20,7 @@ Together with my co-authors [Robert](https://rbstats.netlify.app/) and [Ole](htt
 *Integrating Unsupervised and Supervised Learning for the Prediction of Defensive Schemes in American Football* on [arXiv](https://arxiv.org/abs/2602.10784). 
 Feel free to reach out in case of questions or comments!
 
-I will present ongoing work on *Predicting Qualification Thresholds in European Club Football’s Incomplete Round-Robin Tournaments* at the [Football Analytics Symposium](https://www.kuleuven.be/liss/events/liss-football-analytics-symposium), taking place in Leuven on April 23.
+In May and June, I will be visiting Prof. Dr. Achim Zeileis at the Department of Statistics, University of Innsbruck, for a research and teaching stay.
 
 ## Teaching
 
