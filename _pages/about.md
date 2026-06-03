@@ -16,11 +16,9 @@ Beyond sports analytics, I am also interested in applications of HMMs to finance
 
 ## News
 
-Together with my co-authors [Robert](https://rbstats.netlify.app/) and [Ole](https://janolefi.github.io/), we have published our pre-print 
-*Integrating Unsupervised and Supervised Learning for the Prediction of Defensive Schemes in American Football* on [arXiv](https://arxiv.org/abs/2602.10784). 
-Feel free to reach out in case of questions or comments!
-
 In May and June, I will be visiting Prof. Dr. Achim Zeileis at the Department of Statistics, University of Innsbruck, for a research and teaching stay.
+
+Our FIFA World Cup 2026 forecast has now been [published](https://www.zeileis.org/news/fifa2026/). We predict that Spain is the favorite, followed by France, England and Germany.
 
 ## Teaching
 
