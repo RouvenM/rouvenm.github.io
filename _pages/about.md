@@ -16,8 +16,6 @@ Beyond sports analytics, I am also interested in applications of HMMs to finance
 
 ## News
 
-In May and June, I will be visiting Prof. Dr. Achim Zeileis at the Department of Statistics, University of Innsbruck, for a research and teaching stay.
-
 Over the past few weeks, I have been part of a research team led by Achim Zeileis and Andreas Groll, developing a probabilistic forecast of the FIFA2026 WorldCup.
 By combining information such as historical match results, bookmaker odds, market values, and player-based plus-minus ratings, our machine learning model identifies Spain as the tournament favourite, ahead of England and France.
 You can explore the full predictions [here](https://www.zeileis.org/news/fifa2026/).
