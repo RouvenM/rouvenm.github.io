@@ -16,12 +16,6 @@ Beyond sports analytics, I am also interested in applications of HMMs to finance
 
 ## News
 
-Over the past few weeks, I have been part of a research team led by Achim Zeileis and Andreas Groll, developing a probabilistic forecast of the FIFA2026 WorldCup.
-By combining information such as historical match results, bookmaker odds, market values, and player-based plus-minus ratings, our machine learning model identifies Spain as the tournament favourite, ahead of England and France.
-You can explore the full predictions [here](https://www.zeileis.org/news/fifa2026/).
+I will give a keynote talk at the [DIGITAL LEADER TALK](https://www.digital-leader-talk.com/) at the DFB-Campus in Frankfurt (Main) on August 28th.
 
-## Teaching
-
-In the summer term 2026, I will give a lecture on *Hidden Markov and State Space Models*. 
-If you are a Master’s student enrolled in Statistics, Data Science, or Econometrics at TU Dortmund University, you can [join the course](https://moodle.tu-dortmund.de/course/view.php?id=56408) as an elective module. I look forward to welcoming you!
-
+Moreover, I am organizing the Sports Analytics session at the [CMStatistics 2026](https://www.cmstatistics.org/CFECMStatistics2026/) in Berlin.
