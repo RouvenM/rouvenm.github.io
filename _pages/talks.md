@@ -7,15 +7,31 @@ author_profile: true
 
 ## Talks for the public
 
+* August 2026: Keynote at the [DIGITAL LEADER TALK](https://www.digital-leader-talk.com/) at the DFB-Campus, Frankfurt (Main), Germany
+
+* June 2026: TV interview with ORF on the FIFA World Cup 2026 forecast by Innsbruck statisticians
+
 * July 2025: [Fußball-EM: Statistisch haben Spanierinnen die größte Chance auf den Sieg](https://www.ardaudiothek.de/episode/urn:ard:episode:e00f5a9a4137f3e9/)
-  
+
 ## Talks and Posters
+
+* June 2026: The Best of Both Worlds: Predicting Coverage Schemes in American Football with Supervised and Unsupervised Learning (Poster)
+  * 40th International Workshop on Statistical Modelling, Oslo, Norway
+
+* April 2026: Predicting Qualification Thresholds in European Club Football's Incomplete Round-Robin Tournaments (Poster)
+  * LISS Football Analytics Symposium 2026, Leuven, Belgium
+
+* March 2026: The Best of Both Worlds: Predicting Coverage Schemes in American Football with Supervised and Unsupervised Learning (invited talk)
+  * 16th Workshop on Stochastic Models, Statistics and Their Applications (SMSA), Würzburg, Germany
 
 * March 2026: Using Hidden Markov Models for Decision-Making under Uncertainty in Sports Analytics (invited talk)
   * Quantifying and Managing Uncertainty Focus Group at Bielefeld University, Germany
 
 * November 2025: Applying extensions of the Dixon and Coles model to women's soccer and the new Champions League format
   * 2nd Workshop on Sports Analytics in Soccer at TU Dortmund University, Germany
+
+* September 2025: Modeling and Predicting Match Outcomes using GLMs, CARTs and Random Forests with Applications to Football, Handball, and Tennis (invited talk)
+  * Blended Intensive Programme (BIP): Advanced Sports Analytics, Naples, Italy
 
 * September 2025: [The Best of Both Worlds: Predicting Football Coverages with Supervised and Unsupervised Learning](https://www.youtube.com/watch?v=DzRtGdh5fXM&t=4s)
   * 2025 New England Symposium on Statistics in Sports, Boston, USA

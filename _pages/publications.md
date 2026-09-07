@@ -16,26 +16,26 @@ For a full list of publications, please visit my [Google Scholar profile](https:
 ["Predicting Qualification Thresholds in UEFA's incomplete round-robin tournaments"](https://arxiv.org/pdf/2508.20075)
 
 ## Peer-reviewed papers
-- Winkelmann, D., _Michels, R._ (2025)<br>["Momentum effects in team sports: analyzing the interplay between offense and defense in the NBA"](https://www.tandfonline.com/doi/full/10.1080/00031305.2025.2595980)
-<br> The American Statistician, in press.
+- Winkelmann, D., _Michels, R._ (2026)<br>["Momentum effects in team sports: analyzing the interplay between offense and defense in the NBA"](https://www.tandfonline.com/doi/full/10.1080/00031305.2025.2595980)
+<br> The American Statistician, online first.
+
+- Bajons, R., Koslik, J.-O., _Michels, R._, & Ötting, M. (2026)<br>
+["PEP: a tackle value measuring the prevention of expected points"](https://doi.org/10.1515/jqas-2024-0099)<br>
+*Journal of Quantitative Analysis in Sports*, 22(1), 35–51.
+
+- Karlis, D., _Michels, R._, & Ötting, M. (2026)<br>
+["Modelling handball outcomes using univariate and bivariate approaches"](https://link.springer.com/article/10.1007/s10260-025-00825-w)
+<br>
+Statistical Methods & Applications, 35, 263–284.
+
+- _Michels, R._, & Langrock, R. (2026)<br>
+["Nonparametric estimation of bivariate hidden Markov models using tensor-product B-splines"](https://doi.org/10.1177/1471082X251335431)<br>
+*Statistical Modelling*, 26(3), 277–294.
 
 - Koslik, J.-O., Feldmann, C. C., Mews, S., _Michels, R._, & Langrock, R. (2025)<br>
 ["Inference on the state process of periodically inhomogeneous hidden Markov models for animal behavior"](https://projecteuclid.org/journals/annals-of-applied-statistics/volume-19/issue-4/Inference-on-the-state-process-of-periodically-inhomogeneous-hidden-Markov/10.1214/25-AOAS2107.short)
 <br>
 The Annals of Applied Statistics, 19(4), 2724–2737.
-
-- Karlis, D., _Michels, R._, & Ötting, M. (2025)<br>
-["Modelling handball outcomes using univariate and bivariate approaches"](https://link.springer.com/article/10.1007/s10260-025-00825-w)
-<br>
-Statistical Methods & Applications, in press.
-
-- Bajons, R., Koslik, J.-O., _Michels, R._, & Ötting, M. (2025)<br>
-["PEP: a tackle value measuring the prevention of expected points"](https://doi.org/10.1515/jqas-2024-0099)<br>
-*Journal of Quantitative Analysis in Sports*.
-
-- _Michels, R._, & Langrock, R. (2025)<br>
-["Nonparametric estimation of bivariate hidden Markov models using tensor-product B-splines"](https://doi.org/10.1177/1471082X251335431)<br>
-*Statistical Modelling*.
 
 - _Michels, R._, Ötting, M., & Karlis, D. (2025)<br>
 ["Extending the Dixon and Coles model: an application to women’s football data"](https://doi.org/10.1093/jrsssc/qlae050)<br>
@@ -51,7 +51,7 @@ Statistical Methods & Applications, in press.
 
 - Oelschläger, L., Adam, T., & _Michels, R._ (2024)<br>
 ["fHMM: Hidden Markov Models for Financial Time Series in R"](https://doi.org/10.18637/jss.v109.i09)<br>
-*Journal of Statistical Software*, 109, 1–25.
+*Journal of Statistical Software*, 109(9), 1–25.
 
 - Ötting, M., _Michels, R._, Langrock, R., & Deutscher, C. (2024)<br>
 ["Demand for live betting: An analysis using state-space models"](https://doi.org/10.1002/asmb.2836)<br>
