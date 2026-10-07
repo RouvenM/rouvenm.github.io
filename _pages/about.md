@@ -16,6 +16,4 @@ Beyond sports analytics, I am also interested in applications of HMMs to finance
 
 ## News
 
-I will give a keynote talk at the [DIGITAL LEADER TALK](https://www.digital-leader-talk.com/) at the DFB-Campus in Frankfurt (Main) on August 28th.
-
 Moreover, I am organizing the Sports Analytics session at the [CMStatistics 2026](https://www.cmstatistics.org/CFECMStatistics2026/) in Berlin.
