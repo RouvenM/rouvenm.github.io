@@ -12,7 +12,7 @@ author_profile: true
 - Publication Award for Junior Scientists, Faculty of Business Administration and Economics, Bielefeld University
 
 ## Grants and funding
-- DFG research grant *Analysis of Betting Behavior and the Preventive Effects of Interventions among Vocational School Students*, together with Prof. Dr. Christian Deutscher (2026, 36 months, EUR 166,652)
+- DFG research grant *Analysis of Betting Behavior and the Preventive Effects of Interventions among Vocational School Students*, together with Prof. Dr. Christian Deutscher
 - TU Dortmund Young Academy project funding for *A unified statistical framework for modeling goals in soccer* (EUR 3,000)
 - DAAD travel grant for IWSM 2026, Oslo (EUR 1,089)
 - Conference travel funding within the Infineon doctoral programme (approx. EUR 4,000)
