@@ -17,5 +17,5 @@ Beyond sports analytics, I am also interested in applications of HMMs to finance
 
 ## News
 
-- **New grant:** The DFG funds our project on betting behaviour and the preventive effects of interventions among vocational school students, together with Christian Deutscher.
+- **New grant:** The DFG funds our project *Analysis of Betting Behavior and the Preventive Effects of Interventions among Vocational School Students*, together with Prof. Dr. Christian Deutscher from Bielefeld University.
 - **December 2026:** I am organising the Sports Analytics session at [CFE-CMStatistics 2026](https://www.cmstatistics.org/CFECMStatistics2026/) in Berlin and an international workshop on modelling match outcomes at TU Dortmund University, funded by the TU Dortmund Young Academy.
