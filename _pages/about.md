@@ -19,4 +19,3 @@ Beyond sports analytics, I am also interested in applications of HMMs to finance
 
 - **New grant:** The DFG funds our project on betting behaviour and the preventive effects of interventions among vocational school students, together with Christian Deutscher.
 - **December 2026:** I am organising the Sports Analytics session at [CFE-CMStatistics 2026](https://www.cmstatistics.org/CFECMStatistics2026/) in Berlin and an international workshop on modelling match outcomes at TU Dortmund University, funded by the TU Dortmund Young Academy.
-- **August 2026:** Keynote *Rasenschach trifft Data Intelligence* at the [DIGITAL LEADER TALK](https://www.digital-leader-talk.com/) at the DFB-Campus in Frankfurt am Main.
