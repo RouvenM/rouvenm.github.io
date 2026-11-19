@@ -19,3 +19,9 @@ package-lock.json
 # Ignore folders related to IDEs
 .vscode/
 .Rproj.user
+
+# LaTeX build files of the CV
+cv/*.aux
+cv/*.log
+cv/*.out
+cv/*.pdf

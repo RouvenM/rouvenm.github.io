@@ -1,0 +1,168 @@
+% Public CV for https://rouvenm.github.io/CV.pdf
+% Build: cd cv && pdflatex cv.tex && pdflatex cv.tex && cp cv.pdf ../CV.pdf
+% Deliberately contains no private address, phone number or date of birth.
+\documentclass[a4paper,11pt]{article}
+
+\usepackage[utf8]{inputenc}
+\usepackage[T1]{fontenc}
+\usepackage{lmodern}
+\usepackage{xcolor}
+\definecolor{cvblue}{HTML}{004E95}
+\def\theme{cvblue}
+\usepackage{simplecv}
+\usepackage[english]{babel}
+
+\hypersetup{pdftitle={CV Rouven Michels}, pdfauthor={Rouven Michels}}
+
+\begin{document}
+
+\headingphoto{Dr.\ Rouven Michels}{
+    Postdoctoral Researcher\\
+    Department of Statistics, TU Dortmund University\\[0.6em]
+    E-mail: \email{rouven.michels@tu-dortmund.de}\\
+    Website: \website{rouvenm.github.io}\\
+    ORCID: \href{https://orcid.org/0000-0002-5433-6197}{0000-0002-5433-6197}\\
+    GitHub: \github{rouvenm}
+}{photo.jpg}
+
+\section{Academic Career}
+\outerlist{
+\entrybig
+	{\textbf{TU Dortmund University}}{Dortmund, Germany}
+	{Research Associate (Postdoc), Statistical Methods for Big Data Group}{since October 2024}
+\entrybig
+	{\textbf{University of Innsbruck}}{Innsbruck, Austria}
+	{Teaching and Research Stay, Department of Statistics}{May 2026 -- June 2026}
+\entrybig
+	{\textbf{Bielefeld University}}{Bielefeld, Germany}
+	{Research Associate, Statistics and Data Analysis Group}{October 2020 -- September 2025}
+\innerlist{
+    \entry{Also Research Associate, Sports Science Working Group AB V, October 2020 -- September 2024}
+}
+}
+
+\section{Education}
+\outerlist{
+\entrybig
+	{\textbf{Bielefeld University}}{Bielefeld, Germany}
+	{PhD, Faculty of Business Administration and Economics, \emph{summa cum laude}}{October 2020 -- June 2024}
+\innerlist{
+    \entry{Thesis: \emph{Statistical Inference for Stochastic Process Models in Sports Analytics}}
+}
+\entrybig
+	{\textbf{Bielefeld University}}{Bielefeld, Germany}
+	{B.Sc.\ and M.Sc.\ in Business Mathematics}{October 2013 -- April 2019}
+}
+
+\section{Grants and Funding}
+\denseouterlist{
+\entry{DFG research grant \emph{Analysis of Betting Behavior and the Preventive Effects of Interventions among Vocational School Students}, with Prof.\ Dr.\ Christian Deutscher; awarded 2026; 36 months; EUR 166,652}
+\entry{TU Dortmund Young Academy project funding, \emph{A unified statistical framework for modeling goals in soccer}; EUR 3,000}
+\entry{DAAD travel grant, IWSM 2026, Oslo; EUR 1,089}
+\entry{Conference travel funding within the Infineon doctoral programme; approx.\ EUR 4,000}
+\entry{Submitted: COST Action NEUXUS (Network for Excellence and Utility in eXploring Unified Sports analytics), secondary proposer for TU Dortmund University}
+}
+
+\section{Awards}
+\denseouterlist{
+\entry{Best Student Presentation Award, 38th International Workshop on Statistical Modelling (IWSM), Durham, 2024}
+\entry{Honorable Mention, NFL Big Data Bowl 2024}
+\entry{Student Prize Winner, RSS Women's World Cup 2023 Prediction Competition}
+\entry{Publication Award for Junior Scientists, Faculty of Business Administration and Economics, Bielefeld University}
+}
+
+\section{Publications}
+\textbf{Peer-reviewed journal articles}
+\orderedouterlist{
+\entry{D.\ Winkelmann and \textbf{R.\ Michels}, ``Momentum effects in team sports: analyzing the interplay between offense and defense in the NBA,'' \emph{The American Statistician}, online first, 2026.}
+\entry{R.\ Bajons, J.-O.\ Koslik, \textbf{R.\ Michels}, and M.\ \"Otting, ``PEP: a tackle value measuring the prevention of expected points,'' \emph{Journal of Quantitative Analysis in Sports}, 22(1), 35--51, 2026.}
+\entry{D.\ Karlis, \textbf{R.\ Michels}, and M.\ \"Otting, ``Modelling handball outcomes using univariate and bivariate approaches,'' \emph{Statistical Methods \& Applications}, 35, 263--284, 2026.}
+\entry{\textbf{R.\ Michels} and R.\ Langrock, ``Nonparametric estimation of bivariate hidden Markov models using tensor-product B-splines,'' \emph{Statistical Modelling}, 26(3), 277--294, 2026.}
+\entry{J.-O.\ Koslik, C.\,C.\ Feldmann, S.\ Mews, \textbf{R.\ Michels}, and R.\ Langrock, ``Inference on the state process of periodically inhomogeneous hidden Markov models for animal behavior,'' \emph{The Annals of Applied Statistics}, 19(4), 2724--2737, 2025.}
+\entry{\textbf{R.\ Michels}, M.\ \"Otting, and D.\ Karlis, ``Extending the Dixon and Coles model: an application to women's football data,'' \emph{Journal of the Royal Statistical Society Series C: Applied Statistics}, 74(1), 167--186, 2025.}
+\entry{\textbf{R.\ Michels} and J.-O.\ Koslik, ``On the combination of data smoothing and Markov-switching models,'' \emph{Journal of the Royal Statistical Society Series C: Applied Statistics}, 73(3), 557--560, 2024.}
+\entry{T.\ Adam, M.\ \"Otting, and \textbf{R.\ Michels}, ``Markov-switching decision trees,'' \emph{AStA Advances in Statistical Analysis}, 108(2), 461--476, 2024.}
+\entry{L.\ Oelschl\"ager, T.\ Adam, and \textbf{R.\ Michels}, ``fHMM: Hidden Markov models for financial time series in R,'' \emph{Journal of Statistical Software}, 109(9), 1--25, 2024.}
+\entry{M.\ \"Otting, \textbf{R.\ Michels}, R.\ Langrock, and C.\ Deutscher, ``Demand for live betting: an analysis using state-space models,'' \emph{Applied Stochastic Models in Business and Industry}, 40(2), 527--541, 2024.}
+\entry{\textbf{R.\ Michels}, M.\ \"Otting, and R.\ Langrock, ``Bettors' reaction to match dynamics: evidence from in-game betting,'' \emph{European Journal of Operational Research}, 310(3), 1118--1127, 2023.}
+}
+
+\textbf{Submitted manuscripts and preprints}
+\orderedouterlist{
+\entry{\textbf{R.\ Michels}, J.\ Rux, and P.\ Bauer, ``A time-segmented generalized additive model for forecasting in-game win probabilities in handball,'' submitted to \emph{International Journal of Forecasting}, 2026.}
+\entry{M.\ Jeschke, \textbf{R.\ Michels}, R.\ Fried, and T.\ Faulwasser, ``On hidden Markov modelling of household electricity consumption,'' under revision at \emph{Journal of Economics and Statistics}, 2026.}
+\entry{\textbf{R.\ Michels}, R.\ Bajons, and J.-O.\ Fischer, ``Integrating unsupervised and supervised learning for the prediction of defensive schemes in American football,'' arXiv:2602.10784, 2026.}
+\entry{D.\ Winkelmann, \textbf{R.\ Michels}, and C.\ Deutscher, ``Predicting qualification thresholds in the UEFA Champions League and Europa League under the new league phase format,'' arXiv:2508.20075, 2025.}
+}
+
+\textbf{Conference proceedings}
+\orderedouterlist{
+\entry{\textbf{R.\ Michels}, T.\ Adam, and M.\ \"Otting, ``Tree-based regression within a hidden Markov model framework,'' \emph{Book of Short Papers of the 14th Scientific Meeting on Classification and Data Analysis (CLADAG)}, 2023.}
+}
+
+\section{Invited Talks}
+\denseouterlist{
+\entry{The Best of Both Worlds: Predicting Coverage Schemes in American Football with Supervised and Unsupervised Learning, 16th Workshop on Stochastic Models, Statistics and Their Applications (SMSA), W\"urzburg, March 2026}
+\entry{Using Hidden Markov Models for Decision-Making under Uncertainty in Sports Analytics, Quantifying and Managing Uncertainty Focus Group, Bielefeld, March 2026}
+\entry{Modeling and Predicting Match Outcomes using GLMs, CARTs and Random Forests with Applications to Football, Handball, and Tennis, Blended Intensive Programme: Advanced Sports Analytics, Naples, September 2025}
+\entry{Latent Markov Models and Their Applications in Sports Analytics, SFU Sports Analytics Seminar, Burnaby, September 2024}
+\entry{Modelling Women's Football Scores, RSS Prediction Competition 2024 (online), June 2024}
+\entry{Modelling Women's Football Scores, RSS International Conference, Harrogate, September 2023}
+\entry{Modelling Women's Football Scores, RSS Prediction Competition 2023 (online), July 2023}
+}
+
+\section{Selected Conference Presentations}
+\denseouterlist{
+\entry{The Best of Both Worlds: Predicting Coverage Schemes in American Football with Supervised and Unsupervised Learning, 40th IWSM, Oslo, June 2026 (poster)}
+\entry{Predicting Qualification Thresholds in European Club Football's Incomplete Round-Robin Tournaments, LISS Football Analytics Symposium, Leuven, April 2026 (poster)}
+\entry{The Best of Both Worlds: Predicting Football Coverages with Supervised and Unsupervised Learning, New England Symposium on Statistics in Sports, Boston, September 2025}
+\entry{Forecasting In-Game Win Probabilities in Handball: Evaluating the Impact of Goalkeeper Substitution, 11th MathSport International, Luxembourg, June 2025}
+\entry{Modelling Women's Soccer Scores with Bivariate Distributions from the Sarmanov Family, Cascadia Symposium on Statistics in Sports, Vancouver, September 2024}
+\entry{Inferential Tools for Hidden Markov Models with Periodic Components, 38th IWSM, Durham, July 2024}
+\entry{Tree-Based Regression within a Hidden Markov Model Framework, CLADAG, Salerno, September 2023}
+\entry{Using Tensor-Product B-Splines for Nonparametric Inference in Multivariate Hidden Markov Models, IMS ICSDS, Florence, December 2022}
+}
+\small{A complete list of talks is available at \website{rouvenm.github.io/talks}.}
+
+\section{Teaching}
+\denseouterlist{
+\entry{\textbf{Lecture:} Hidden Markov and State Space Models, Summer Terms 2025 \& 2026}
+\entry{\textbf{Seminars:} Soccer Analytics (TU Dortmund, Winter Terms 2024/25 \& 2025/26; University of Innsbruck, Summer Term 2026); Visualisation of Sports Data (2025); Research Methods in Sports Economics (2021--2024); Current Topics in Sports Economics (2021/22--2023/24); Reading Courses on NFL Analytics (2023/24) and Basketball Data Science (2022/23); Economic Analyses of Team and Individual Sports (2021)}
+\entry{\textbf{Tutorials:} Case Studies II (2026/27); Hidden Markov and State Space Models (2026); Introductory Case Studies (2024/25); Hidden Markov Models (2022); Generalized Linear Models (2021/22)}
+\entry{\textbf{Supervision:} 5 statistical consulting projects (e.g., with FC Schalke 04 and TBV Lemgo) and 35 Bachelor's and Master's theses}
+}
+
+\section{Academic Service}
+\denseouterlist{
+\entry{Associate Editor, \emph{Journal of Sports Analytics}}
+\entry{Reviewer for, e.g., \emph{JRSS Series C}, \emph{Statistical Modelling}, \emph{Computational Statistics}, \emph{Journal of Quantitative Analysis in Sports}, \emph{Journal of Sports Economics}}
+\entry{Organisation: international workshop on modelling match outcomes, TU Dortmund (2026); Sports Analytics session, CFE-CMStatistics, Berlin (2026); 2nd Workshop on Sports Analytics in Soccer, TU Dortmund (2025); 10th Young Researchers Workshop, Centre for Statistics, Bielefeld (2022)}
+\entry{Elected member of the ERC Board of TU Dortmund University (since 2026); deputy member of the Transfer Advisory Board (since 2026)}
+\entry{Member of the Young Academy of TU Dortmund University, the S-TRAINING group, and the Statistical Modelling Society}
+}
+
+\section{Science Communication}
+\denseouterlist{
+\entry{Keynote ``Rasenschach trifft Data Intelligence'', DIGITAL LEADER TALK, DFB-Campus, Frankfurt am Main, August 2026}
+\entry{TV interview with ORF on the 2026 FIFA World Cup forecast, June 2026}
+\entry{Radio interview with radioeins on the UEFA Women's EURO 2025, July 2025}
+\entry{Workshop on sports betting, GL\"UXXIT Conference on Prevention, Duisburg, February 2024}
+}
+
+\section{Professional Experience outside Academia}
+\outerlist{
+\entrybig
+	{\textbf{KPMG AG}}{Bielefeld / Frankfurt am Main}
+	{Associate in Risk Management; before: working student in Credit Risk}{Feb 2018 -- Sep 2020}
+\entrybig
+	{\textbf{Zurich AG}}{Bonn}
+	{Actuarial Intern}{Aug 2015 -- Sep 2015}
+}
+
+\section{Skills}
+\denseouterlist{
+\entry{\textbf{Programming:} R (expert), Python (advanced), Git (expert)}
+\entry{\textbf{Languages:} German (native), English (business fluent), Spanish (basic)}
+}
+
+\end{document}
