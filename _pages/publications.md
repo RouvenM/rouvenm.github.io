@@ -7,11 +7,7 @@ author_profile: true
 
 For a full list of publications, please visit my [Google Scholar profile](https://scholar.google.de/citations?user=G3JmOXUAAAAJ&hl=de&oi=ao).
 
-## Submitted and under review
-- _Michels, R._, Rux, J., & Bauer, P. (2026)<br>
-"A time-segmented generalized additive model for forecasting in-game win probabilities in handball"
-<br> Submitted to the *International Journal of Forecasting*.
-
+## Under review
 - Jeschke, M., _Michels, R._, Fried, R., & Faulwasser, T. (2026)<br>
 "On hidden Markov modelling of household electricity consumption"
 <br> Under revision at the *Journal of Economics and Statistics*.
@@ -78,7 +74,7 @@ For a full list of publications, please visit my [Google Scholar profile](https:
 ## Software and code
 - [fHMM](https://cran.r-project.org/package=fHMM): R package for hidden Markov models for financial time series (with L. Oelschläger and T. Adam)
 - [HMMotion](https://github.com/RouvenM/HMMotion-code): code for the American football coverage-scheme paper
-- [In-game win probability in handball](https://github.com/RouvenM/In-game-Win-Probability-in-Handball-Code): code for the handball win-probability paper
+- [In-game win probability in handball](https://github.com/RouvenM/In-game-Win-Probability-in-Handball-Code): code for forecasting in-game win probabilities in handball
 - [PEP tackle value](https://github.com/Rob2208/nfl_bdb_24): code for the NFL Big Data Bowl 2024 submission
 - [Markov-switching decision trees](https://github.com/timoadam/MarkovSwitchingDecisionTrees)
 - [Data smoothing and Markov-switching models](https://github.com/RouvenM/DataSmoothingAndMarkov-switching)
