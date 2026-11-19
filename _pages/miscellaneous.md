@@ -13,9 +13,9 @@ author_profile: true
 
 ## Grants and funding
 - DFG research grant *Analysis of Betting Behavior and the Preventive Effects of Interventions among Vocational School Students*, together with Prof. Dr. Christian Deutscher
-- TU Dortmund Young Academy project funding for *A unified statistical framework for modeling goals in soccer* (EUR 3,000)
-- DAAD travel grant for IWSM 2026, Oslo (EUR 1,089)
-- Conference travel funding within the Infineon doctoral programme (approx. EUR 4,000)
+- TU Dortmund Young Academy project funding for *A unified statistical framework for modeling goals in soccer*
+- DAAD travel grant for IWSM 2026, Oslo
+- Conference travel funding within the Infineon doctoral programme
 - Submitted: COST Action NEUXUS (Network for Excellence and Utility in eXploring Unified Sports analytics), secondary proposer for TU Dortmund University
 
 ## Editorial work and reviewing
